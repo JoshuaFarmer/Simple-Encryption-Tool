@@ -1,0 +1,1 @@
+gcc src/main.c -o bin/EncryptionTool -Os -Wall -Wextra -lz
